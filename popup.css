@@ -1,0 +1,21 @@
+.wrap {
+    border:1px solid #cfcfcf;
+    padding:10px 20px;
+    width: 400px;
+}
+.img {
+    margin-bottom:10px;
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.qrcode {
+    border:1px solid #cfcfcf;
+}
+.ipt {
+    border:1px solid #FFA500;
+    border-radius: 8px;
+    padding:10px;
+    font-size:18px;
+}

@@ -1,0 +1,16 @@
+{
+    "name":"generate-code-pic",  
+    "version":"1.0",       
+    "description":"generate code picture",  
+    "manifest_version":3,
+    "icons":{
+        "32": "images/icon_32.png",
+        "48": "images/icon_48.png",
+        "64": "images/icon_48.png"
+    },
+    "permissions": ["tabs"],
+    "action":{
+        "default_popup": "popup.html"
+    }
+}
+
